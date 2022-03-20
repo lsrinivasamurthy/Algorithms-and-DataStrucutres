@@ -51,5 +51,6 @@ int allocate_books(const vector<int>& arr, int m)
 int main()
 {
     cout << allocate_books({12, 34, 67, 90}, 2) << endl;
+    cout << allocate_books({10, 20, 10, 30}, 2) << endl;
     return 0;
 }

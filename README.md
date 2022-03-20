@@ -1,2 +1,2 @@
 # DataStrucutres
-This repo contains the programs done for practicing the data structures.
+This repo contains the programs done for practicing the algorithms and data structures.

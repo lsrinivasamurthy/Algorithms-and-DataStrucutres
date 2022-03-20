@@ -41,5 +41,9 @@ int search_sorted_rotated_array(vector<int> arr,int key)
 int main()
 {
     cout<<"key found at :"<<search_sorted_rotated_array({5, 6, 7, 8, 9, 10, 1, 2, 3}, 10);
+    cout << sorted_rotated_search({3, 5, 1, 2}, 6) << endl;
+    cout << sorted_rotated_search({1, 2, 4, 5, 6}, 6) << endl;
+    cout << sorted_rotated_search({5, 6, 7, 8, 9, 10, 1, 2, 3}, 5) << endl;
+    cout << sorted_rotated_search({5, 6, 7, 8, 9, 10, 1, 2, 3}, 3) << endl;
     return 0;
 }

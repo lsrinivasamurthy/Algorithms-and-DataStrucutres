@@ -10,3 +10,7 @@ Agenda:
 ● Binary Search:
   ○ Find the first and last positions of an element in a sorted array
   ○ Floor square root
+
+Exercise :
+1. Returns Kadens Algo Sub Array. 
+2. Circular Sub Array.
